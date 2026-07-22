@@ -1,15 +1,108 @@
-<h1 align="center">Hi 👋, I'm Enes Bilal Olğun</h1>
-<h3 align="center">Ben Enes Bilal Olğun, web teknolojileri ve modern arayüz tasarımları (front-end geliştirme) üzerine çalışmalar yürüten bir bilgisayar programcılığı öğrencisi ve web geliştiricisiyim.</h3>
+<h1 align="center">Merhaba 👋 Ben Enes Bilal Olğun</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/enes-bilal-ol%C4%9Fun-1675b5424/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Enes Bilal Olğun" height="30" width="40" /></a>
-<a href="https://instagram.com/enes_olgn0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enes_olgn0" height="30" width="40" /></a>
+<h3 align="center">
+Bilgisayar Programcılığı öğrencisi • Front-End Developer • Web Geliştirici
+</h3>
+
+<p align="center">
+HTML • CSS • JavaScript • React • Next.js öğreniyorum 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Enes2553&" alt="Enes2553" /></p>
+## 👨‍💻 Hakkımda
 
-![Snake animation](https://raw.githubusercontent.com/Enes2553/Enes2553/output/github-contribution-grid-snake.svg)
+- 🎓 Bilgisayar Programcılığı öğrencisiyim.
+- 🌍 Kendi web sitem: https://enesbilalolgun.com.tr
+- 💻 Front-End geliştirme üzerine çalışıyorum.
+- 🚀 Hedefim Full Stack Developer olmak.
+- 📫 Bana ulaş: **info@enesbilalolgun.com.tr**
+
+---
+
+## 🌐 Sosyal Medya
+
+<p align="left">
+<a href="https://www.linkedin.com/in/KENDI-LINKEDIN-URL/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/enes_olgn0" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://enesbilalolgun.com.tr" target="_blank">
+<img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Teknolojiler
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,cs,git,github,vscode"/>
+
+</p>
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enes2553&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes2553&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Enes2553&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enes2553&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Enes2553/Enes2553/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+## 💻 Öne Çıkan Projeler
+
+🔹 İşletme Yönetim Paneli
+
+🔹 Kişisel Portfolyo Sitesi
+
+🔹 Web Tasarım Çalışmaları
+
+---
+
+<p align="center">
+
+⭐ Profilimi ziyaret ettiğin için teşekkür ederim.
+
+</p>
