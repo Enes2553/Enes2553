@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Enes Bilal Olğun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Enes Bilal Olğun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/enes-bilal-ol%C4%9Fun-1675b5424/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Enes Bilal Olğun" height="30" width="40" /></a>
 <a href="https://instagram.com/enes_olgn0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enes_olgn0" height="30" width="40" /></a>
 </p>
 
@@ -12,4 +12,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Enes2553&" alt="Enes2553" /></p>
 
-![snake gif](https://github.com/Enes2553/Enes2553/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/Enes2553/Enes2553/output/github-contribution-grid-snake.svg)
